@@ -18,3 +18,18 @@ Application.$controller("MainPageController", ["$scope", function ($scope) {
     };
 
 }]);
+
+
+Application.$controller("VacationGrid1Controller", ["$scope",
+	function($scope) {
+		"use strict";
+		$scope.ctrlScope = $scope;
+	}
+]);
+
+Application.$controller("VacationLiveform1Controller", ["$scope",
+	function($scope) {
+		"use strict";
+		$scope.ctrlScope = $scope;
+	}
+]);
