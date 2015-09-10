@@ -217,6 +217,7 @@
 		}
 	},
 	"HrdbEmployeeData": {
+		"name": "HrdbEmployeeData",
 		"type": "Employee",
 		"isList": true,
 		"owner": "App",
